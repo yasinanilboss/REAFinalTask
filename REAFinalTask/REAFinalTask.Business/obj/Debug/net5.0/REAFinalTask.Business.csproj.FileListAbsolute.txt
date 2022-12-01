@@ -1,0 +1,17 @@
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\bin\Debug\net5.0\REAFinalTask.Business.deps.json
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\bin\Debug\net5.0\REAFinalTask.Business.dll
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\bin\Debug\net5.0\REAFinalTask.Business.pdb
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\obj\Debug\net5.0\REAFinalTask.Business.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\obj\Debug\net5.0\REAFinalTask.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\obj\Debug\net5.0\REAFinalTask.Business.AssemblyInfoInputs.cache
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\obj\Debug\net5.0\REAFinalTask.Business.AssemblyInfo.cs
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\obj\Debug\net5.0\REAFinalTask.Business.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\obj\Debug\net5.0\REAFinalTask.Business.dll
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\obj\Debug\net5.0\refint\REAFinalTask.Business.dll
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\obj\Debug\net5.0\REAFinalTask.Business.pdb
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\obj\Debug\net5.0\ref\REAFinalTask.Business.dll
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\bin\Debug\net5.0\REAFinalTask.DataAccess.dll
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\bin\Debug\net5.0\REAFinalTask.Entities.dll
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\bin\Debug\net5.0\REAFinalTask.DataAccess.pdb
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\bin\Debug\net5.0\REAFinalTask.Entities.pdb
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Business\obj\Debug\net5.0\REAFinalTask.Business.csproj.CopyComplete

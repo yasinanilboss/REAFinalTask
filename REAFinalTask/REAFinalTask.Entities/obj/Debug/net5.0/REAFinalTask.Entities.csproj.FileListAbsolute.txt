@@ -1,0 +1,12 @@
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Entities\bin\Debug\net5.0\REAFinalTask.Entities.deps.json
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Entities\bin\Debug\net5.0\REAFinalTask.Entities.dll
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Entities\bin\Debug\net5.0\REAFinalTask.Entities.pdb
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Entities\obj\Debug\net5.0\REAFinalTask.Entities.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Entities\obj\Debug\net5.0\REAFinalTask.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Entities\obj\Debug\net5.0\REAFinalTask.Entities.AssemblyInfoInputs.cache
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Entities\obj\Debug\net5.0\REAFinalTask.Entities.AssemblyInfo.cs
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Entities\obj\Debug\net5.0\REAFinalTask.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Entities\obj\Debug\net5.0\REAFinalTask.Entities.dll
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Entities\obj\Debug\net5.0\refint\REAFinalTask.Entities.dll
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Entities\obj\Debug\net5.0\REAFinalTask.Entities.pdb
+C:\Users\yasin\source\repos\REAFinalTask\REAFinalTask.Entities\obj\Debug\net5.0\ref\REAFinalTask.Entities.dll
